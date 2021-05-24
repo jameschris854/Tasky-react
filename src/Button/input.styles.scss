@@ -1,0 +1,36 @@
+.input-container{
+    display: flex;
+    align-self:flex-start;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 10px;
+    outline: none;
+    font-family: "McLaren", cursive;
+
+
+    .input{
+
+    height: 20px;
+    display: block;
+    width: 50%;
+    margin-top: 20px;
+    border:none;
+    border-bottom: dotted rgb(255, 186, 36);
+    background: none;
+    outline: none;
+    font-size: 20px;
+
+}
+.add-button{
+    background: rgba(255, 255, 255, 0);
+    border:solid 2px rgb(97, 97, 97) ;
+    border-radius: 5px;
+    box-shadow: 0px 3px 0px 0px rgb(255, 196, 0);
+    height: 35px;
+    width: 50px;
+    outline: none;
+    font-family: "McLaren", cursive;
+    font-weight: 1000;
+    color: rgb(56, 56, 56);
+    
+}}
